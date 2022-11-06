@@ -1,23 +1,23 @@
 if cisFejsSX1w81988e == "disFeoklamW81909e" then
 print("passed 1")
 	else
-	    game.Players.LocalPlayer:Kick("dont bypass nigger")
+	    game.Players.LocalPlayer:Kick("dont bypass nigger 1 ")
 end
 if elsFrjmSX1w81999d == "disFeoklamW81909e" then
 print("passed 2")
 	else
-		game.Players.LocalPlayer:Kick("dont bypass nigger")
+		game.Players.LocalPlayer:Kick("dont bypass nigger 2 ")
 end
 if LisFejsSX1w8I9s9e == "disFeoklamW81909e" then
 print("passed 3")
 	else
-game.Players.LocalPlayer:Kick("dont bypass nigger")
+game.Players.LocalPlayer:Kick("dont bypass nigger 3 ")
 end	    
 if pisCeUsSX1w81090e == "disFeoklamW81909e" then
 print("passed 4")
 				
 	else
-game.Players.LocalPlayer:Kick("dont bypass nigger")
+game.Players.LocalPlayer:Kick("dont bypass nigger 4 ")
 end
 				
 if disFejsSX1w81999e == "disFeoklamW81909e" then
