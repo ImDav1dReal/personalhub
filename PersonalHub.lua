@@ -1,40 +1,22 @@
 if cisFejsSX1w81988e == "disFeoklamW81909e" then
 print("passed 1")
 	else
-	
-if dshjsdfag == "sdafkjajdf" then
-print("nigger")
-else 
-game.Players.LocalPlayer:Kick("dont bypass nigger")
-	end
-	
+	    game.Players.LocalPlayer:Kick("dont bypass nigger")
+end
 if elsFrjmSX1w81999d == "disFeoklamW81909e" then
 print("passed 2")
 	else
-		
-if dshjdsjefa == "sdnooeooppp" then
-print("nigger")
-else
-game.Players.LocalPlayer:Kick("dont bypass nigger")
-	end
-	
+		game.Players.LocalPlayer:Kick("dont bypass nigger")
+end
 if LisFejsSX1w8I9s9e == "disFeoklamW81909e" then
 print("passed 3")
-			
 	else
-if dshjdsjefa == "sdnooeooppp" then
-print("nigger")
-else
 game.Players.LocalPlayer:Kick("dont bypass nigger")
-end
-			
+end	    
 if pisCeUsSX1w81090e == "disFeoklamW81909e" then
 print("passed 4")
 				
 	else
-if dshjdsjefa == "sdnooeooppp" then
-print("nigger")
-else
 game.Players.LocalPlayer:Kick("dont bypass nigger")
 end
 				
@@ -204,4 +186,4 @@ else
 game.Players.LocalPlayer:Kick("dont bypass nigger")
 end
 G.key = niggers
-end end end end
+				
