@@ -1,5 +1,5 @@
-
-	game.StarterGui:SetCore("SendNotification", {
+if disFejsSX1w81999e == "disFeoklamW81909e" then
+game.StarterGui:SetCore("SendNotification", {
  Title = "Succes!"; 
  Text = "You Passed the KeySystem!"; 
  Icon = "rbxassetid://419589574"; 
@@ -165,5 +165,4 @@ end)
 
 Section:NewButton("DayTimeChanger", "", function()
 game.Lighting.TimeOfDay = "12:00:00:"
-end)
-
+end) else print("Nigger detected") end
