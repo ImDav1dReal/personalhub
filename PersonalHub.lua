@@ -38,7 +38,7 @@ else
 game.Players.LocalPlayer:Kick("dont bypass nigger")
 end
 				
-if disFejsSX1w81999e == "disFeoklamW81909e" the
+if disFejsSX1w81999e == "disFeoklamW81909e" then
 				
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
@@ -204,4 +204,4 @@ else
 game.Players.LocalPlayer:Kick("dont bypass nigger")
 end
 G.key = niggers
-				
+end end end end
