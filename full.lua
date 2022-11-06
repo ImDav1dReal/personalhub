@@ -91,25 +91,13 @@ Frame.Draggable = true
 Exit.MouseButton1Click:Connect(function()
 	ScreenGui:Destroy()
 end)
-
 local disFejsSX1w81999e = "disFeoklamW81909e"
-
 Load.MouseButton1Click:Connect(function()
-local nigga = math.random(1,999)
-local elprim0 = math.random(1,999)
-_G.nigg3 = nigga
-_G.asdfj = elprim0
-_G.salro = nigga
-_G.sordl = nigga
-_G.dlsoc = elprim0
-_G.20cor = nigga
-_G.309op = elprim0
-_G.dOprE = elprim0
-		
 	if TextBox.text == disFejsSX1w81999e then
+		local disFejsSX1w81999e = "disFeoklamW81909e"
 		loadstring(game:HttpGet(("https://raw.githubusercontent.com/ImDav1dReal/personalhub/main/loggedin.lua"),true))()
         loadstring(game:HttpGet(("https://raw.githubusercontent.com/ImDav1dReal/personalhub/main/PersonalHub.lua"),true))()
-		ScreenGui:Destroy()
+        ScreenGui:Destroy()
 	else
 	    loadstring(game:HttpGet(("https://raw.githubusercontent.com/ImDav1dReal/personalhub/main/failkey.lua"),true))()
 		game.Players.LocalPlayer:Kick("Wrong Key")
