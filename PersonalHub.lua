@@ -168,4 +168,4 @@ Section:NewButton("DayTimeChanger", "", function()
 game.Lighting.TimeOfDay = "12:00:00:"
 end)
    else
-   print("nigga how did you bypass the first security.")	
+   print("nigga how did you bypass the first security.") end
