@@ -1,4 +1,3 @@
-
 if disFejsSX1w81999e == "disFeoklamW81909e" then
 	
 	game.StarterGui:SetCore("SendNotification", {
@@ -168,7 +167,5 @@ end)
 Section:NewButton("DayTimeChanger", "", function()
 game.Lighting.TimeOfDay = "12:00:00:"
 end)
-else 
-	
-game.Players.LocalPlayer:Kick("dont bypass nigger")
-end
+   else
+   print("nigga how did you bypass the first security.")	
