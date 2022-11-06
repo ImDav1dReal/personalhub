@@ -1,4 +1,4 @@
-if disFejsSX1w81999e == "disFeoklamW81909e" then
+if disFejsSX1w81999e = "disFeoklamW81909e" then
 	
 	game.StarterGui:SetCore("SendNotification", {
  Title = "Succes!"; 
