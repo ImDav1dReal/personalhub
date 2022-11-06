@@ -1,27 +1,13 @@
-if cisFejsSX1w81988e == "disFeoklamW81909e" then
-print("passed 1")
-	else
-	    game.Players.LocalPlayer:Kick("dont bypass nigger 1 ")
-end
-if elsFrjmSX1w81999d == "disFeoklamW81909e" then
-print("passed 2")
-	else
-		game.Players.LocalPlayer:Kick("dont bypass nigger 2 ")
-end
-if LisFejsSX1w8I9s9e == "disFeoklamW81909e" then
-print("passed 3")
-	else
-game.Players.LocalPlayer:Kick("dont bypass nigger 3 ")
-end	    
-if pisCeUsSX1w81090e == "disFeoklamW81909e" then
-print("passed 4")
-				
-	else
-game.Players.LocalPlayer:Kick("dont bypass nigger 4 ")
-end
-				
+
 if disFejsSX1w81999e == "disFeoklamW81909e" then
-				
+	
+	game.StarterGui:SetCore("SendNotification", {
+ Title = "Succes!"; 
+ Text = "You Passed the KeySystem!"; 
+ Icon = "rbxassetid://419589574"; 
+ Duration = 1; 
+ })
+	
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 
@@ -183,7 +169,6 @@ Section:NewButton("DayTimeChanger", "", function()
 game.Lighting.TimeOfDay = "12:00:00:"
 end)
 else 
+	
 game.Players.LocalPlayer:Kick("dont bypass nigger")
 end
-G.key = niggers
-				
