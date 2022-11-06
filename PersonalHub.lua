@@ -1,3 +1,24 @@
+if cisFejsSX1w81988e == "disFeoklamW81909e" then
+print("passed 1")
+	else
+game.Players.LocalPlayer:Kick("dont bypass nigger")
+	
+if elsFrjmSX1w81999d == "disFeoklamW81909e" then
+print("passed 2")
+	else
+game.Players.LocalPlayer:Kick("dont bypass nigger")
+		
+if LisFejsSX1w8I9s9e == "disFeoklamW81909e" then
+print("passed 3")
+	else
+game.Players.LocalPlayer:Kick("dont bypass nigger")
+			
+if pisCeUsSX1w81090e == "disFeoklamW81909e" then
+print("passed 4")
+	else
+game.Players.LocalPlayer:Kick("dont bypass nigger")
+				
+if disFejsSX1w81999e == "disFeoklamW81909e" then
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 
@@ -158,4 +179,5 @@ end)
 Section:NewButton("DayTimeChanger", "", function()
 game.Lighting.TimeOfDay = "12:00:00:"
 end)
-
+else game.Players.LocalPlayer:Kick("dont bypass nigger")end
+G.key = niggers
